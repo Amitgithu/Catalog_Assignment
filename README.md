@@ -1,4 +1,3 @@
-Here's the updated guide to execute your code with the specified filename `Shimer_Key_Constant.js`. 
 
 ### How to Execute the Code
 
@@ -44,4 +43,3 @@ node Shimer_Key_Constant.js
 - Ensure that your input JSON files (e.g., `input1.json`, `input2.json`, etc.) are located in the `catalog_drive` folder alongside your `Shimer_Key_Constant.js` script.
 - Make sure your JSON files are formatted correctly as per the required structure for the script to execute without errors.
 
-This simple guide should help you execute your code effectively!
