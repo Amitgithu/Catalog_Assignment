@@ -7,7 +7,7 @@
    cd path/to/your/catalog
    ```
 
-2. **Navigate to the `catalog_drive` Folder**:
+2. **Navigate to the `Catalog Drive` Folder**:
    Inside the `catalog` directory, navigate to the `catalog_drive` folder where your code and JSON files are located:
    ```bash
    cd catalog_drive
